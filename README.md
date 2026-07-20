@@ -53,8 +53,17 @@ Built with lightweight, client-side JavaScript for fast, private PDF processing 
 ---
 
 ## 🛠️ Open Source Core Libraries Used
+### 🛠️ Tech Stack
+
+Built with lightweight, client-side JavaScript for fast, private PDF processing directly in the browser.
+
+### 🛠️ Open Source Core Libraries Used
+
 This platform is built on top of incredibly robust open-source JavaScript packages to ensure all processing happens strictly inside the user's browser:
-* [pdf-lib](https://github.com) — Used for advanced document modifications, adding text, and page adjustments.
-* [jsPDF](https://github.com) — Handles programmatic client-side PDF document generation.
-* [pdf.js](https://github.com) — Mozilla's powerful engine for parsing and rendering PDF structures locally.
+
+* [pdf-lib](https://js.org) — Used for advanced document modifications, adding text, and page adjustments.
+* [jsPDF](https://rawgit.com) — Handles programmatic client-side PDF document generation.
+* [pdf.js](https://github.io) — Mozilla's powerful engine for parsing and rendering PDF structures locally.
+* [JSZip](https://github.io) — Used for presentation unpacking and multi-file presentation asset rendering locally.
+
 
