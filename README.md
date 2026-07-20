@@ -53,11 +53,6 @@ Built with lightweight, client-side JavaScript for fast, private PDF processing 
 ---
 
 ## 🛠️ Open Source Core Libraries Used
-### 🛠️ Tech Stack
-
-Built with lightweight, client-side JavaScript for fast, private PDF processing directly in the browser.
-
-### 🛠️ Open Source Core Libraries Used
 
 This platform is built on top of incredibly robust open-source JavaScript packages to ensure all processing happens strictly inside the user's browser:
 
