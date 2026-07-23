@@ -1,11 +1,13 @@
+
 <div align="center">
-  <a href="https://producthunt.com" target="_blank">
+  <a href="https://www.producthunt.com/posts/easyfreepdf" target="_blank">
     <img src="https://producthunt.com" alt="EasyFreePDF - Fast, Secure, and 100% Free Browser-Based PDF Tools | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
   </a>
   <p align="center">We are officially live on Product Hunt today! Click the badge above to share your feedback. ❤️</p>
 </div>
 
 <hr />
+
 
 
 
